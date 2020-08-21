@@ -1,0 +1,10 @@
+{
+  "name": "TIBIA_APP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alan Ribeiro <alandson_ribeiro@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
